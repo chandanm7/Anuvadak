@@ -1,0 +1,38 @@
+Walkthrough 
+
+JS Approach
+User Creation
+Admin and PM
+Create JS (Kannada, Odia)
+Preview
+Login to user Dashboard 
+Preview
+Show Site Visits 
+Make Changes show changes 
+Upload CSV show changes 
+Dowload Source at both levels
+Email Configuration
+Send Data to Prabandhak
+Send Back Translations from Prabandhak and dsiplay translatios on pairs and PReview 
+Font size
+No Translation
+Add New Content/Page/languge
+PerforTranslations/Send to Prabandhak  get it localized
+
+
+Non JS
+Turn off Publish Machine Translation and Preview
+How Machine Translations work
+
+No Translation
+.elementor-icon-list-items.elementor-inline-items
+.elementor-icon-box-title
+
+Font Size
+.elementor-heading-title.elementor-size-small
+.elementor-icon-box-description
+
+
+Note Cloud Production QA and On Premise(AWS)
+
+
